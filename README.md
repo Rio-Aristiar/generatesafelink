@@ -1,0 +1,2 @@
+# generatesafelink
+waikiwa generate safelink
